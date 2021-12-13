@@ -1,1 +1,7 @@
-git add
+git add  path第一次提交
+git init(初始化) 第二次提交
+git commit -m"注释"  第三次提交
+
+git 仓库初始化与文件添加基本操作
+git 开启时光穿梭机的故事
+git 第三次修改
